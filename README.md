@@ -1,2 +1,2 @@
 # cifar10
-simple traning for cifar10 using pytorch
+simple traning classifier model for cifar10 using pytorch
